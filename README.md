@@ -1,4 +1,6 @@
-# Getting Started
+# Scola Cake Creations
+
+![Scola Cakes](dist/images/logo.jpg)
 
 ## How to use
 
