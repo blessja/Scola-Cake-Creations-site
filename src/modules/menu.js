@@ -5,49 +5,49 @@ function createMenu() {
   menu.appendChild(
     createMenuItem(
       "Birthday",
-      "Tomato sauce, Mozarella, Tomato, Homemade sausage, Garlic, Basil"
+      "Customized birthday cake 2 tier"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Wedding",
-      "Tomato sauce, Mozarella, Shrimps, Feta cheese, Olives, Basil"
+      "3 Tier wedding cake. fruit cake"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Anniversary",
-      "Tomato sauce, Mozarella, Chilli flakes, Olives, Basil"
+      "Customized anniversary for memories"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Birthday",
-      "Tomato sauce, Bacon, Pineapple, Olives, Basil"
+      "Customized birthday cake 2 tier"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Wedding",
-      "Tomato sauce, Mozarella, Onion, Pepper, Champignons, Basil"
+      "3 Tier wedding cake. fruit cake"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Carrot Cake",
-      "Tomato sauce, Mozarella, Tomato, Onion, Feta cheese, Chilli"
+      "We offer different designs as well"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Velvet Cake",
-      "White sauce, Mozarella, Shrimps, Salmon, Pineapple, Olives, Basil"
+      "Well designed and on the flavour"
     )
   );
   menu.appendChild(
     createMenuItem(
       "Wedding Cake",
-      "Tomato sauce, Mozarella, Homemade sausage, Bacon, Garlic, Pepper, Chilli"
+      "7 tier wedding cake"
     )
   );
 
