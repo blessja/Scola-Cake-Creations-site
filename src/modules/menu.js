@@ -11,7 +11,7 @@ function createMenu() {
   menu.appendChild(
     createMenuItem(
       "Wedding",
-      "3 Tier wedding cake. fruit cake"
+      "6 Tier wedding cake with extra smalls. fruit cake"
     )
   );
   menu.appendChild(
@@ -29,7 +29,7 @@ function createMenu() {
   menu.appendChild(
     createMenuItem(
       "Wedding",
-      "3 Tier wedding cake. fruit cake"
+      "6 Tier wedding cake with extra smalls. fruit cake"
     )
   );
   menu.appendChild(
