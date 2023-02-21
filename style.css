@@ -29,10 +29,13 @@ body {
   background-size: cover;
 }
 
+
 header {
   font-size: 2.4rem;
 }
-
+h1{
+  font-size: 10rem;
+}
 h1,
 h2,
 h3 {
@@ -83,7 +86,7 @@ button {
 .restaurant-name {
   margin-bottom: 1rem;
   font-family: 'Tangerine', cursive;
-  font-size: 10rem;
+
 }
 
 .button-nav {
@@ -276,9 +279,32 @@ button {
 @media (max-width: 500px) {
   html {
     font-size: 57.5%;
+  
   }
+
+  .home img {
+    width: 256px;
+    height: 236px;
+  }
+}
+@media only screen and (max-width: 320px) {
+  html {
+    font-size: 57.5%;
+    
+  }
+  .home p {
+    padding: 5px;
+    ;
+}
 
   .home img {
     width: 80%;
   }
+
+ h1 {
+  font-size: 20px;
+ }
 }
+  
+
+
