@@ -125,6 +125,7 @@ button {
   justify-content: center;
   height: 525px;
   width: 618px;
+  margin: auto;
   animation: fadeIn 1.5s;
 }
 
@@ -156,7 +157,7 @@ button {
   align-items: center;
   justify-content: center;
   height: 430px;
-  padding: 4rem;
+  padding: 7rem;
   cursor: pointer;
   background-color: var(--background-light);
   transition: background-color 0.3s;
@@ -188,6 +189,7 @@ button {
   justify-content: center;
   height: 525px;
   width: 618px;
+  margin: auto;
   animation: fadeIn 1.5s;
 }
 
