@@ -1,3 +1,4 @@
+
 function createMenu() {
   const menu = document.createElement("div");
   menu.classList.add("menu");
@@ -13,6 +14,7 @@ function createMenu() {
       "Wedding",
       "6 Tier wedding cake with extra smalls. fruit cake"
     )
+
   );
   menu.appendChild(
     createMenuItem(

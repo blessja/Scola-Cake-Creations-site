@@ -83,8 +83,8 @@ function createFooter() {
   githubLink.href = "https://github.com/michalosman";
 
   const githubIcon = document.createElement("i");
-  githubIcon.classList.add("fab");
-  githubIcon.classList.add("fa-github");
+  githubIcon.classList.add("fa-brands");
+  githubIcon.classList.add("fa-facebook");
 
   githubLink.appendChild(githubIcon);
   footer.appendChild(copyright);
